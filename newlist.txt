@@ -1,0 +1,5 @@
+Monday 3 not full
+Tuesday 2 not full
+Wednesday 0 not full
+Thursday 2 not full
+Friday 0 full

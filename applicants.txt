@@ -1,0 +1,4 @@
+John,New_York,Monday Tuesday Thursday
+Anna,London,Tuesday Wednesday Friday
+Rachel,Chicago,Monday Thuesday Wednesday 
+Cooper,California,Monday Thursday Friday
