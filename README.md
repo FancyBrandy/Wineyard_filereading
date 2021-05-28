@@ -8,3 +8,5 @@ The vineyard knows how many workers they need on given days. (e.g. Monday 12 Thu
 further applicants for that day. 
 
 The data of the applicants are stored in file. The program has to be able to modify, to delete the data and make a daily and full list of them. 
+
+Note: the file has to be run in Linux system.
